@@ -1,0 +1,13 @@
+
+:root{
+    --back-color: rgb(100, 146, 103);
+    --primary-color: #f9ffee;
+    --header-back: #55b94c;
+    --header-text: rgba(92,211,142);    
+}
+body{
+    background-color: var(--back-color);
+    color: var(--primary-color);
+}
+
+

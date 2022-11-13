@@ -1,0 +1,11 @@
+
+:root{
+    --back-color: rgb(242, 250, 225);
+    --primary-color: #8cbb1f;
+    --header-back: #5d5d5d;
+    --header--text: #eeee;
+}
+body{
+    background-color: var(--back-color);
+    color: var(--primary-color);
+}
